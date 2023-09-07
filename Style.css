@@ -1,0 +1,19 @@
+body {
+				background-color:skyblue;
+			}
+			/* Cambiar el tamaño del título */
+			h1 {
+			   font-size: 80px; /* Ajusta el valor según el tamaño deseado */
+
+			   font-family: "Lucida Grande", sans-serif;
+			}
+			h2 {
+			   font-size: 17px; /* Ajusta el valor según el tamaño deseado */
+			
+			   font-family: "Arial", sans-serif;
+
+			   text-align: justify;
+			}
+			p {
+			   font-size: 20px; /* Ajusta el valor según el tamaño deseado */
+			}
